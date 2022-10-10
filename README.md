@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Carlos Guilherme 👋
 
 - 🔭 Buscando a primeira oportunidade como desenvolvedor web front-end
-- 🐱‍👤 Skills: HTML5/CSS3
+- 🐱‍👤 Skills: HTML5/CSS3/Responsividade
 - 🌱 Learning: JavaScript
 
 <div align="center">
